@@ -1,0 +1,20 @@
+h1{
+    color: rgb(2, 139, 177)
+}
+#title_3{
+    color: rgb(0, 0, 0);
+}
+body{
+    color: aqua;
+}
+.vid_hitler{
+    border: thick double #32a1ce;;
+}
+.vid1{
+    border: 5px double  white;
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 37px;
+    box-shadow: 10px 5px 5px rgb(3, 3, 3);
+}
